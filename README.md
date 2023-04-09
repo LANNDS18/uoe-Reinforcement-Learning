@@ -1,6 +1,6 @@
 # Download
 ```console
-git clone https://github.com/uoe-agents/uoe-rl2023-coursework
+https://github.com/LANNDS18/uoe-Reinforcement-Learning.git
 ```
 
 # Install dependencies using:
